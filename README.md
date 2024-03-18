@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Akshat Jha<br><br>- 💻 I’m a web developer<br>- 📚 I'm currently learning backend <br>- ⚡ In my free time I sleep and hit the gym</p>
+<p align="left">I'm Akshat Jha<br><br>- 💻 I’m a web developer<br>- 📚 I'm currently learning backend <br>- ⚡ In my free time I sleep or hit the gym</p>
 
 ###
 
