@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshatJha21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=merko&hide_border=true&order=2" height="140" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AkshatJha21&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=AkshatJha21&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatJha21&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
