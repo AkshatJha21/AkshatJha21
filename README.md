@@ -77,8 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatJha21&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
-[![Github Streak](https://streak-stats.demolab.com/?user=AkshatJha21&theme=dark)](https://git.io/streak-stats)
-
 ###
 
 <div align="center">
